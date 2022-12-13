@@ -15,4 +15,4 @@ body{
 
         h2{
             color: green;
-        }
+        }   .basico{color: green; font-weight:bold;} .intermediario{color: #807938;} .avançado{color: #803c3c;} .destaque{background-color: #c5c56070;}
